@@ -1,0 +1,17 @@
+# IMPORTAR DATOS DE LA BASE DE DATOS - DOCKERIZADA:
+1. Conectarse al contenedor de la base:
+    $ docker exec -it poc-gql-mongodb bash
+2. Posicionarse en la carpeta "carga-inicial":
+    $ cd data/db/carga-inicial
+3. Ejecutar el comando para importar los datos a la base:
+    $ mongoimport --db poc-graphql-db --collection paises --file paises.json
+
+
+
+# EXPORTAR DATOS DE LA BASE DE DATOS
+
+    $ mongoexport --db poc-graphql-db --collection paises --out paises.json
+---
+2019-06-27T15:57:22.850-0300    connected to: localhost
+2019-06-27T15:57:22.866-0300    exported 9 records
+---

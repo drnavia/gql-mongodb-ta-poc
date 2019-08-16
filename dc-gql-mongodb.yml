@@ -1,0 +1,17 @@
+version: '3.7'
+services:
+  poc-gql-mongodb:
+    image: mongo:4.0
+    container_name: poc-gql-mongodb
+    ports:
+     - "27017:27017"
+    restart: always
+    volumes:
+     - "./data_mongodb:/data/db"
+    networks:
+      - poc-graphql
+
+networks:
+  poc-graphql:
+    name: poc-graphql
+    external: true

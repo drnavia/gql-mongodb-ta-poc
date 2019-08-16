@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5d15067ac35ab3e304351655"},"estados":[{"codestado":"CABA","nombestado":"Ciudad Autónoma de Buenos Aires","localidades":[{"codlocalidad":"ALG","nomblocalidad":"Almagro"},{"codlocalidad":"VCP","nomblocalidad":"Villa Crespo"}]},{"codestado":"BSAS","nombestado":"Buenos Aires","localidades":[{"codlocalidad":"RMJ","nomblocalidad":"Ramos Mejia"},{"codlocalidad":"MRN","nomblocalidad":"Morón"}]}],"codpais":"ARG","nombpais":"Argentina","prefpais":54,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150982c35ab3e304351656"},"estados":[{"codestado":"SNP","nombestado":"San Pablo","localidades":[]},{"codestado":"RDJ","nombestado":"Río de Janeiro","localidades":[]}],"codpais":"BRA","nombpais":"Brasil","prefpais":55,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150c01c35ab3e304351657"},"estados":[],"codpais":"URY","nombpais":"Uruguay","prefpais":594,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150c78c35ab3e304351658"},"estados":[],"codpais":"CHL","nombpais":"Chile","prefpais":56,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150cb9c35ab3e304351659"},"estados":[],"codpais":"PRY","nombpais":"Paraguay","prefpais":595,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150cedc35ab3e30435165a"},"estados":[],"codpais":"COL","nombpais":"Colombia","prefpais":57,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150d30c35ab3e30435165b"},"estados":[],"codpais":"BOL","nombpais":"Bolivia","prefpais":591,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150d50c35ab3e30435165c"},"estados":[],"codpais":"PER","nombpais":"Perú","prefpais":51,"continente":"AMERICA","__v":0}
+{"_id":{"$oid":"5d150d92c35ab3e30435165d"},"estados":[],"codpais":"ECU","nombpais":"Ecuador","prefpais":593,"continente":"AMERICA","__v":0}
