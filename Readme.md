@@ -1,6 +1,6 @@
 <img src="http://drnavia.com/logos/POC-GraphQL-2019.png"></img>
 
-## Base de Datos MongoDB - [Dokerizada]
+## Base de Datos MongoDB - [Dockerizada]
 ![Branch stable](https://img.shields.io/badge/branch-master-blue.svg)
 ![version](https://img.shields.io/badge/mongodb-v4.x-499D4A.svg)
 ![version](https://img.shields.io/badge/docker%20compose-build-309CEC.svg)<br>
